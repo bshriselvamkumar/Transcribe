@@ -1,0 +1,1 @@
+To develop a Python-based application to transcribe videos from my YouTube channel. I have approximately 1,500 videos, and I want to generate accurate transcriptions in multiple languages, such as Tamil, Hindi, Telugu, and Kannada. The transcribed content should be saved locally in structured formats such as text or PDF files. # Transcribe
